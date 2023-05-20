@@ -1,0 +1,1189 @@
+ID;Age;Gender;Height;Weight;BMI;physical activity;Label
+1;25;Male;175;80;25.3;0;Normal Weight
+2;30;Female;160;60;22.5;1;Normal Weight
+3;35;Male;180;90;27.3;1;Overweight
+4;40;Female;150;50;20;0;Underweight
+5;45;Male;190;100;31.2;1;Obese I
+6;50;Female;140;40;16.7;0;Underweight
+7;55;Male;200;110;34.2;1;Obese I
+8;60;Female;130;30;13.3;1;Underweight
+9;65;Male;210;120;37.2;0;Obese II
+10;70;Female;120;20;10;1;Underweight
+11;18;Male;175;70;23.4;0;Normal Weight
+12;23;Female;160;50;20;1;Underweight
+13;28;Male;180;80;25.3;1;Normal Weight
+14;33;Female;150;60;22.5;0;Normal Weight
+15;38;Male;190;90;27.3;0;Overweight
+16;43;Female;140;50;20;0;Underweight
+17;48;Male;200;100;31.2;0;Obese I
+19;53;Female;130;40;16.7;1;Underweight
+20;58;Male;210;110;34.2;1;Obese I
+21;63;Female;120;30;13.3;1;Underweight
+22;68;Male;175;80;25.3;1;Normal Weight
+23;73;Female;160;60;22.5;0;Normal Weight
+24;78;Male;180;90;27.3;0;Overweight
+25;83;Female;150;50;20;1;Underweight
+26;88;Male;190;100;31.2;0;Obese I
+27;93;Female;140;40;16.7;1;Underweight
+28;98;Male;200;110;34.2;0;Obese I
+29;103;Female;130;30;13.3;0;Underweight
+30;108;Male;210;120;37.2;1;Obese II
+31;19;Male;175;75;24.2;0;Normal Weight
+32;24;Female;160;55;21.2;1;Normal Weight
+33;29;Male;180;85;26.1;0;Overweight
+35;39;Male;190;95;27;0;Overweight
+36;44;Female;140;75;25;0;Overweight
+37;49;Male;200;105;28.9;0;Obese I
+38;54;Female;130;85;27.5;0;Overweight
+39;59;Male;210;115;30.8;1;Obese I
+40;64;Female;120;95;29.1;1;Overweight
+41;17;Male;175;65;22.7;1;Normal Weight
+42;22;Female;160;45;18.7;0;Underweight
+43;27;Male;180;75;24.2;0;Normal Weight
+44;32;Female;150;55;21.2;0;Normal Weight
+45;37;Male;190;85;26.1;0;Overweight
+46;42;Female;140;65;22.7;1;Normal Weight
+47;47;Male;200;95;27;1;Overweight
+48;52;Female;130;75;25;1;Overweight
+49;57;Male;210;105;28.9;1;Obese I
+50;62;Female;120;85;27.5;1;Overweight
+51;67;Male;175;65;22.7;0;Normal Weight
+52;72;Female;160;45;18.7;1;Underweight
+53;77;Male;180;75;24.2;1;Normal Weight
+54;82;Female;150;55;21.2;0;Normal Weight
+55;87;Male;190;85;26.1;1;Overweight
+56;92;Female;140;65;22.7;0;Normal Weight
+57;97;Male;200;95;27;1;Overweight
+58;102;Female;130;75;25;1;Overweight
+59;107;Male;210;105;28.9;1;Obese I
+60;112;Female;120;85;27.5;1;Overweight
+61;16;Male;175;55;21.2;1;Normal Weight
+62;21;Female;160;35;16.7;0;Underweight
+63;26;Male;180;65;22.7;1;Normal Weight
+64;31;Female;150;45;18.7;1;Underweight
+65;36;Male;190;75;24.2;1;Normal Weight
+66;41;Female;140;55;21.2;0;Normal Weight
+67;46;Male;200;85;26.1;0;Overweight
+68;51;Female;130;65;22.7;1;Normal Weight
+69;56;Male;210;95;27;1;Overweight
+70;61;Female;120;75;25;1;Overweight
+71;15;Male;175;45;18.7;0;Underweight
+72;20;Female;160;30;13.3;1;Underweight
+73;25;Male;180;55;21.2;1;Normal Weight
+74;30;Female;150;40;16.7;1;Underweight
+75;35;Male;190;65;22.7;0;Normal Weight
+76;40;Female;140;50;20;0;Underweight
+77;45;Male;200;75;24.2;0;Normal Weight
+78;50;Female;130;60;22.5;1;Normal Weight
+79;55;Male;210;85;26.1;1;Overweight
+80;60;Female;120;70;23.4;0;Normal Weight
+81;14;Male;175;35;16.7;0;Underweight
+82;19;Female;160;25;10;0;Underweight
+83;24;Male;180;45;18.7;1;Underweight
+84;29;Female;150;30;13.3;0;Underweight
+85;34;Male;190;55;21.2;1;Normal Weight
+86;13;Male;175;25;10;1;Underweight
+87;18;Female;160;20;8.3;1;Underweight
+88;23;Male;180;30;13.3;1;Underweight
+89;28;Female;150;25;10;1;Underweight
+90;33;Male;190;40;16.7;0;Underweight
+91;38;Female;140;35;16.7;1;Underweight
+92;43;Male;200;50;20;1;Underweight
+93;48;Female;130;40;16.7;0;Underweight
+94;53;Male;210;55;21.2;1;Normal Weight
+95;58;Female;120;35;16.7;1;Underweight
+96;12;Male;175;15;5.6;1;Underweight
+97;17;Female;160;15;5.6;0;Underweight
+98;22;Male;180;20;8.3;1;Underweight
+99;27;Female;150;20;8.3;0;Underweight
+100;32;Male;190;25;10;0;Underweight
+101;37;Female;140;25;10;1;Underweight
+102;42;Male;200;30;13.3;1;Underweight
+103;47;Female;130;30;13.3;0;Underweight
+104;52;Male;210;35;16.7;1;Underweight
+105;57;Female;120;25;10;0;Underweight
+106;11;Male;175;10;3.9;1;Underweight
+107;16;Female;160;10;3.9;0;Underweight
+108;21;Male;180;15;5.6;0;Underweight
+109;26;Female;150;15;5.6;0;Underweight
+110;31;Male;190;20;8.3;0;Underweight
+111;25;Male;175;80;25.3;0;Normal Weight
+112;30;Female;160;60;22.5;1;Normal Weight
+113;35;Male;180;90;27.3;1;Overweight
+114;40;Female;150;50;20;1;Underweight
+115;45;Male;190;100;31.2;1;Obese I
+116;50;Female;140;40;16.7;1;Underweight
+117;55;Male;200;110;34.2;1;Obese I
+118;60;Female;130;30;13.3;1;Underweight
+119;65;Male;210;120;37.2;0;Obese II
+120;70;Female;120;20;10;0;Underweight
+121;18;Male;175;70;23.4;1;Normal Weight
+122;23;Female;160;50;20;0;Underweight
+123;28;Male;180;80;25.3;1;Normal Weight
+124;33;Female;150;60;22.5;0;Normal Weight
+125;38;Male;190;90;27.3;0;Overweight
+126;43;Female;140;50;20;1;Underweight
+127;48;Male;200;100;31.2;1;Obese I
+128;53;Female;130;40;16.7;0;Underweight
+129;58;Male;210;110;34.2;0;Obese I
+130;63;Female;120;30;13.3;1;Underweight
+131;68;Male;175;80;25.3;1;Normal Weight
+132;73;Female;160;60;22.5;1;Normal Weight
+133;78;Male;180;90;27.3;0;Overweight
+134;83;Female;150;50;20;1;Underweight
+135;88;Male;190;100;31.2;0;Obese I
+136;93;Female;140;40;16.7;0;Underweight
+137;98;Male;200;110;34.2;0;Obese I
+138;103;Female;130;30;13.3;1;Underweight
+139;108;Male;210;120;37.2;0;Obese II
+140;19;Male;175;75;24.2;1;Normal Weight
+141;24;Female;160;55;21.2;1;Normal Weight
+142;29;Male;180;85;26.1;0;Overweight
+143;39;Male;190;95;27;1;Overweight
+144;44;Female;140;75;25;1;Overweight
+145;49;Male;200;105;28.9;0;Obese I
+146;54;Female;130;85;27.5;1;Overweight
+147;59;Male;210;115;30.8;0;Obese I
+148;64;Female;120;95;29.1;1;Overweight
+149;17;Male;175;65;22.7;0;Normal Weight
+150;22;Female;160;45;18.7;1;Underweight
+151;27;Male;180;75;24.2;0;Normal Weight
+152;32;Female;150;55;21.2;0;Normal Weight
+153;37;Male;190;85;26.1;1;Overweight
+154;42;Female;140;65;22.7;0;Normal Weight
+155;47;Male;200;95;27;0;Overweight
+156;52;Female;130;75;25;0;Overweight
+157;57;Male;210;105;28.9;0;Obese I
+158;62;Female;120;85;27.5;1;Overweight
+159;67;Male;175;65;22.7;1;Normal Weight
+160;72;Female;160;45;18.7;0;Underweight
+161;77;Male;180;75;24.2;1;Normal Weight
+162;82;Female;150;55;21.2;1;Normal Weight
+163;87;Male;190;85;26.1;0;Overweight
+164;92;Female;140;65;22.7;1;Normal Weight
+165;97;Male;200;95;27;1;Overweight
+166;102;Female;130;75;25;1;Overweight
+167;107;Male;210;105;28.9;0;Obese I
+168;112;Female;120;85;27.5;1;Overweight
+169;16;Male;175;55;21.2;0;Normal Weight
+170;21;Female;160;35;16.7;0;Underweight
+171;26;Male;180;65;22.7;1;Normal Weight
+172;31;Female;150;45;18.7;1;Underweight
+173;36;Male;190;75;24.2;1;Normal Weight
+174;41;Female;140;55;21.2;0;Normal Weight
+175;46;Male;200;85;26.1;0;Overweight
+176;51;Female;130;65;22.7;1;Normal Weight
+177;56;Male;210;95;27;1;Overweight
+178;61;Female;120;75;25;1;Overweight
+179;15;Male;175;45;18.7;0;Underweight
+180;20;Female;160;30;13.3;1;Underweight
+181;25;Male;180;55;21.2;0;Normal Weight
+182;30;Female;150;40;16.7;1;Underweight
+183;35;Male;190;65;22.7;1;Normal Weight
+184;40;Female;140;50;20;0;Underweight
+185;45;Male;200;75;24.2;0;Normal Weight
+186;50;Female;130;60;22.5;1;Normal Weight
+187;55;Male;210;85;26.1;0;Overweight
+188;60;Female;120;70;23.4;1;Normal Weight
+189;14;Male;175;35;16.7;1;Underweight
+190;19;Female;160;25;10;1;Underweight
+191;24;Male;180;45;18.7;1;Underweight
+192;29;Female;150;30;13.3;1;Underweight
+193;34;Male;190;55;21.2;0;Normal Weight
+194;13;Male;175;25;10;0;Underweight
+195;18;Female;160;20;8.3;0;Underweight
+196;23;Male;180;30;13.3;1;Underweight
+197;28;Female;150;25;10;0;Underweight
+198;33;Male;190;40;16.7;1;Underweight
+199;38;Female;140;35;16.7;0;Underweight
+200;43;Male;200;50;20;0;Underweight
+201;48;Female;130;40;16.7;1;Underweight
+202;53;Male;210;55;21.2;0;Normal Weight
+203;58;Female;120;35;16.7;0;Underweight
+204;12;Male;175;15;5.6;0;Underweight
+205;17;Female;160;15;5.6;1;Underweight
+206;22;Male;180;20;8.3;1;Underweight
+207;27;Female;150;20;8.3;1;Underweight
+208;32;Male;190;25;10;1;Underweight
+209;37;Female;140;25;10;1;Underweight
+210;42;Male;200;30;13.3;0;Underweight
+211;47;Female;130;30;13.3;1;Underweight
+212;52;Male;210;35;16.7;1;Underweight
+213;57;Female;120;25;10;1;Underweight
+214;11;Male;175;10;3.9;1;Underweight
+215;16;Female;160;10;3.9;0;Underweight
+216;21;Male;180;15;5.6;0;Underweight
+217;26;Female;150;15;5.6;1;Underweight
+218;31;Male;190;20;8.3;1;Underweight
+219;25;Male;175;80;25.3;1;Normal Weight
+220;30;Female;160;60;22.5;0;Normal Weight
+221;35;Male;180;90;27.3;0;Overweight
+222;40;Female;150;50;20;1;Underweight
+223;45;Male;190;100;31.2;1;Obese I
+224;50;Female;140;40;16.7;0;Underweight
+225;55;Male;200;110;34.2;1;Obese I
+226;60;Female;130;30;13.3;0;Underweight
+227;65;Male;210;120;37.2;0;Obese II
+228;70;Female;120;20;10;0;Underweight
+229;18;Male;175;70;23.4;1;Normal Weight
+230;23;Female;160;50;20;1;Underweight
+231;28;Male;180;80;25.3;1;Normal Weight
+232;33;Female;150;60;22.5;0;Normal Weight
+233;38;Male;190;90;27.3;0;Overweight
+234;43;Female;140;50;20;1;Underweight
+235;48;Male;200;100;31.2;0;Obese I
+236;53;Female;130;40;16.7;0;Underweight
+237;58;Male;210;110;34.2;0;Obese I
+238;63;Female;120;30;13.3;1;Underweight
+239;68;Male;175;80;25.3;0;Normal Weight
+240;73;Female;160;60;22.5;1;Normal Weight
+241;78;Male;180;90;27.3;1;Overweight
+242;83;Female;150;50;20;0;Underweight
+243;88;Male;190;100;31.2;1;Obese I
+244;93;Female;140;40;16.7;1;Underweight
+245;98;Male;200;110;34.2;1;Obese I
+246;103;Female;130;30;13.3;1;Underweight
+247;108;Male;210;120;37.2;0;Obese II
+248;19;Male;175;75;24.2;0;Normal Weight
+249;24;Female;160;55;21.2;1;Normal Weight
+250;29;Male;180;85;26.1;1;Overweight
+251;39;Male;190;95;27;1;Overweight
+252;44;Female;140;75;25;1;Overweight
+253;49;Male;200;105;28.9;1;Obese I
+254;54;Female;130;85;27.5;0;Overweight
+255;59;Male;210;115;30.8;1;Obese I
+256;64;Female;120;95;29.1;0;Overweight
+257;17;Male;175;65;22.7;1;Normal Weight
+258;22;Female;160;45;18.7;1;Underweight
+259;27;Male;180;75;24.2;1;Normal Weight
+260;32;Female;150;55;21.2;1;Normal Weight
+261;37;Male;190;85;26.1;1;Overweight
+262;42;Female;140;65;22.7;1;Normal Weight
+263;47;Male;200;95;27;0;Overweight
+264;52;Female;130;75;25;0;Overweight
+265;57;Male;210;105;28.9;0;Obese I
+266;62;Female;120;85;27.5;1;Overweight
+267;67;Male;175;65;22.7;1;Normal Weight
+268;72;Female;160;45;18.7;1;Underweight
+269;77;Male;180;75;24.2;1;Normal Weight
+270;82;Female;150;55;21.2;0;Normal Weight
+271;87;Male;190;85;26.1;0;Overweight
+272;92;Female;140;65;22.7;1;Normal Weight
+273;97;Male;200;95;27;1;Overweight
+274;102;Female;130;75;25;1;Overweight
+275;107;Male;210;105;28.9;1;Obese I
+276;112;Female;120;85;27.5;1;Overweight
+277;16;Male;175;55;21.2;1;Normal Weight
+278;21;Female;160;35;16.7;1;Underweight
+279;26;Male;180;65;22.7;1;Normal Weight
+280;31;Female;150;45;18.7;1;Underweight
+281;36;Male;190;75;24.2;0;Normal Weight
+282;41;Female;140;55;21.2;1;Normal Weight
+283;46;Male;200;85;26.1;0;Overweight
+284;51;Female;130;65;22.7;1;Normal Weight
+285;56;Male;210;95;27;0;Overweight
+286;61;Female;120;75;25;1;Overweight
+287;15;Male;175;45;18.7;0;Underweight
+288;20;Female;160;30;13.3;1;Underweight
+289;25;Male;180;55;21.2;0;Normal Weight
+290;30;Female;150;40;16.7;0;Underweight
+291;35;Male;190;65;22.7;1;Normal Weight
+292;40;Female;140;50;20;1;Underweight
+293;45;Male;200;75;24.2;1;Normal Weight
+294;50;Female;130;60;22.5;1;Normal Weight
+295;55;Male;210;85;26.1;0;Overweight
+296;60;Female;120;70;23.4;1;Normal Weight
+297;14;Male;175;35;16.7;1;Underweight
+298;19;Female;160;25;10;1;Underweight
+299;24;Male;180;45;18.7;0;Underweight
+300;29;Female;150;30;13.3;0;Underweight
+301;34;Male;190;55;21.2;1;Normal Weight
+302;13;Male;175;25;10;0;Underweight
+303;18;Female;160;20;8.3;1;Underweight
+304;23;Male;180;30;13.3;0;Underweight
+305;28;Female;150;25;10;1;Underweight
+306;33;Male;190;40;16.7;1;Underweight
+307;38;Female;140;35;16.7;0;Underweight
+308;43;Male;200;50;20;0;Underweight
+309;48;Female;130;40;16.7;1;Underweight
+310;53;Male;210;55;21.2;0;Normal Weight
+311;58;Female;120;35;16.7;0;Underweight
+312;12;Male;175;15;5.6;1;Underweight
+313;17;Female;160;15;5.6;1;Underweight
+314;22;Male;180;20;8.3;0;Underweight
+315;27;Female;150;20;8.3;1;Underweight
+316;32;Male;190;25;10;0;Underweight
+317;37;Female;140;25;10;1;Underweight
+318;42;Male;200;30;13.3;0;Underweight
+319;47;Female;130;30;13.3;0;Underweight
+320;52;Male;210;35;16.7;1;Underweight
+321;57;Female;120;25;10;1;Underweight
+322;11;Male;175;10;3.9;1;Underweight
+323;16;Female;160;10;3.9;1;Underweight
+324;21;Male;180;15;5.6;0;Underweight
+325;26;Female;150;15;5.6;0;Underweight
+326;31;Male;190;20;8.3;0;Underweight
+327;25;Male;175;80;25.3;1;Normal Weight
+328;30;Female;160;60;22.5;0;Normal Weight
+329;35;Male;180;90;27.3;0;Overweight
+330;40;Female;150;50;20;1;Underweight
+331;45;Male;190;100;31.2;1;Obese I
+332;50;Female;140;40;16.7;0;Underweight
+333;55;Male;200;110;34.2;1;Obese I
+334;60;Female;130;30;13.3;0;Underweight
+335;65;Male;210;120;37.2;0;Obese II
+336;70;Female;120;20;10;0;Underweight
+337;18;Male;175;70;23.4;0;Normal Weight
+338;23;Female;160;50;20;0;Underweight
+339;28;Male;180;80;25.3;0;Normal Weight
+340;33;Female;150;60;22.5;0;Normal Weight
+341;38;Male;190;90;27.3;1;Overweight
+342;43;Female;140;50;20;1;Underweight
+343;48;Male;200;100;31.2;0;Obese I
+344;53;Female;130;40;16.7;1;Underweight
+345;58;Male;210;110;34.2;1;Obese I
+346;63;Female;120;30;13.3;1;Underweight
+347;68;Male;175;80;25.3;0;Normal Weight
+348;73;Female;160;60;22.5;0;Normal Weight
+349;78;Male;180;90;27.3;1;Overweight
+350;83;Female;150;50;20;0;Underweight
+351;88;Male;190;100;31.2;0;Obese I
+352;93;Female;140;40;16.7;1;Underweight
+353;98;Male;200;110;34.2;0;Obese I
+354;103;Female;130;30;13.3;1;Underweight
+355;108;Male;210;120;37.2;1;Obese II
+356;19;Male;175;75;24.2;0;Normal Weight
+357;24;Female;160;55;21.2;1;Normal Weight
+358;29;Male;180;85;26.1;0;Overweight
+359;39;Male;190;95;27;1;Overweight
+360;44;Female;140;75;25;1;Overweight
+361;49;Male;200;105;28.9;1;Obese I
+362;54;Female;130;85;27.5;1;Overweight
+363;59;Male;210;115;30.8;1;Obese I
+364;64;Female;120;95;29.1;1;Overweight
+365;17;Male;175;65;22.7;0;Normal Weight
+366;22;Female;160;45;18.7;1;Underweight
+367;27;Male;180;75;24.2;1;Normal Weight
+368;32;Female;150;55;21.2;1;Normal Weight
+369;37;Male;190;85;26.1;1;Overweight
+370;42;Female;140;65;22.7;0;Normal Weight
+371;47;Male;200;95;27;1;Overweight
+372;52;Female;130;75;25;1;Overweight
+373;57;Male;210;105;28.9;1;Obese I
+374;62;Female;120;85;27.5;0;Overweight
+375;67;Male;175;65;22.7;0;Normal Weight
+376;72;Female;160;45;18.7;1;Underweight
+377;77;Male;180;75;24.2;1;Normal Weight
+378;82;Female;150;55;21.2;0;Normal Weight
+379;87;Male;190;85;26.1;0;Overweight
+380;92;Female;140;65;22.7;1;Normal Weight
+381;97;Male;200;95;27;0;Overweight
+382;102;Female;130;75;25;0;Overweight
+383;107;Male;210;105;28.9;0;Obese I
+384;112;Female;120;85;27.5;1;Overweight
+385;16;Male;175;55;21.2;1;Normal Weight
+386;21;Female;160;35;16.7;1;Underweight
+387;26;Male;180;65;22.7;1;Normal Weight
+388;31;Female;150;45;18.7;1;Underweight
+389;36;Male;190;75;24.2;0;Normal Weight
+390;41;Female;140;55;21.2;1;Normal Weight
+391;46;Male;200;85;26.1;1;Overweight
+392;51;Female;130;65;22.7;1;Normal Weight
+393;56;Male;210;95;27;0;Overweight
+394;61;Female;120;75;25;1;Overweight
+395;15;Male;175;45;18.7;0;Underweight
+396;20;Female;160;30;13.3;0;Underweight
+397;25;Male;180;55;21.2;1;Normal Weight
+398;30;Female;150;40;16.7;0;Underweight
+399;35;Male;190;65;22.7;1;Normal Weight
+400;40;Female;140;50;20;1;Underweight
+401;45;Male;200;75;24.2;0;Normal Weight
+402;50;Female;130;60;22.5;1;Normal Weight
+403;55;Male;210;85;26.1;1;Overweight
+404;60;Female;120;70;23.4;0;Normal Weight
+405;14;Male;175;35;16.7;0;Underweight
+406;19;Female;160;25;10;1;Underweight
+407;24;Male;180;45;18.7;1;Underweight
+408;29;Female;150;30;13.3;0;Underweight
+409;34;Male;190;55;21.2;1;Normal Weight
+410;13;Male;175;25;10;0;Underweight
+411;18;Female;160;20;8.3;0;Underweight
+412;23;Male;180;30;13.3;0;Underweight
+413;28;Female;150;25;10;0;Underweight
+414;33;Male;190;40;16.7;0;Underweight
+415;38;Female;140;35;16.7;1;Underweight
+416;43;Male;200;50;20;1;Underweight
+417;48;Female;130;40;16.7;1;Underweight
+418;53;Male;210;55;21.2;0;Normal Weight
+419;58;Female;120;35;16.7;1;Underweight
+420;12;Male;175;15;5.6;1;Underweight
+421;17;Female;160;15;5.6;1;Underweight
+422;22;Male;180;20;8.3;0;Underweight
+423;27;Female;150;20;8.3;1;Underweight
+424;32;Male;190;25;10;1;Underweight
+425;37;Female;140;25;10;0;Underweight
+426;42;Male;200;30;13.3;1;Underweight
+427;47;Female;130;30;13.3;0;Underweight
+428;52;Male;210;35;16.7;0;Underweight
+429;57;Female;120;25;10;0;Underweight
+430;11;Male;175;10;3.9;1;Underweight
+431;16;Female;160;10;3.9;0;Underweight
+432;21;Male;180;15;5.6;0;Underweight
+433;26;Female;150;15;5.6;0;Underweight
+434;31;Male;190;20;8.3;1;Underweight
+435;25;Male;175;80;25.3;1;Normal Weight
+436;30;Female;160;60;22.5;0;Normal Weight
+437;35;Male;180;90;27.3;1;Overweight
+438;40;Female;150;50;20;1;Underweight
+439;45;Male;190;100;31.2;0;Obese I
+440;50;Female;140;40;16.7;0;Underweight
+441;55;Male;200;110;34.2;0;Obese I
+442;60;Female;130;30;13.3;1;Underweight
+443;65;Male;210;120;37.2;0;Obese II
+444;70;Female;120;20;10;1;Underweight
+445;18;Male;175;70;23.4;0;Normal Weight
+446;23;Female;160;50;20;0;Underweight
+447;28;Male;180;80;25.3;1;Normal Weight
+448;33;Female;150;60;22.5;0;Normal Weight
+449;38;Male;190;90;27.3;0;Overweight
+450;43;Female;140;50;20;0;Underweight
+451;48;Male;200;100;31.2;0;Obese I
+452;53;Female;130;40;16.7;0;Underweight
+453;58;Male;210;110;34.2;0;Obese I
+454;63;Female;120;30;13.3;1;Underweight
+455;68;Male;175;80;25.3;1;Normal Weight
+456;73;Female;160;60;22.5;1;Normal Weight
+457;78;Male;180;90;27.3;1;Overweight
+458;83;Female;150;50;20;1;Underweight
+459;88;Male;190;100;31.2;0;Obese I
+460;93;Female;140;40;16.7;0;Underweight
+461;98;Male;200;110;34.2;0;Obese I
+462;103;Female;130;30;13.3;1;Underweight
+463;108;Male;210;120;37.2;1;Obese II
+464;19;Male;175;75;24.2;1;Normal Weight
+465;24;Female;160;55;21.2;0;Normal Weight
+466;29;Male;180;85;26.1;1;Overweight
+467;39;Male;190;95;27;1;Overweight
+468;44;Female;140;75;25;0;Overweight
+469;49;Male;200;105;28.9;1;Obese I
+470;54;Female;130;85;27.5;1;Overweight
+471;59;Male;210;115;30.8;1;Obese I
+472;64;Female;120;95;29.1;0;Overweight
+473;17;Male;175;65;22.7;1;Normal Weight
+474;22;Female;160;45;18.7;0;Underweight
+475;27;Male;180;75;24.2;1;Normal Weight
+476;32;Female;150;55;21.2;0;Normal Weight
+477;37;Male;190;85;26.1;1;Overweight
+478;42;Female;140;65;22.7;0;Normal Weight
+479;47;Male;200;95;27;0;Overweight
+480;52;Female;130;75;25;0;Overweight
+481;57;Male;210;105;28.9;1;Obese I
+482;62;Female;120;85;27.5;0;Overweight
+483;67;Male;175;65;22.7;1;Normal Weight
+484;72;Female;160;45;18.7;0;Underweight
+485;77;Male;180;75;24.2;0;Normal Weight
+486;82;Female;150;55;21.2;1;Normal Weight
+487;87;Male;190;85;26.1;0;Overweight
+488;92;Female;140;65;22.7;0;Normal Weight
+489;97;Male;200;95;27;1;Overweight
+490;102;Female;130;75;25;0;Overweight
+491;107;Male;210;105;28.9;1;Obese I
+492;112;Female;120;85;27.5;1;Overweight
+493;16;Male;175;55;21.2;0;Normal Weight
+494;21;Female;160;35;16.7;0;Underweight
+495;26;Male;180;65;22.7;1;Normal Weight
+496;31;Female;150;45;18.7;1;Underweight
+497;36;Male;190;75;24.2;0;Normal Weight
+498;41;Female;140;55;21.2;1;Normal Weight
+499;46;Male;200;85;26.1;0;Overweight
+500;51;Female;130;65;22.7;1;Normal Weight
+501;56;Male;210;95;27;0;Overweight
+502;61;Female;120;75;25;1;Overweight
+503;15;Male;175;45;18.7;0;Underweight
+504;20;Female;160;30;13.3;1;Underweight
+505;25;Male;180;55;21.2;0;Normal Weight
+506;30;Female;150;40;16.7;0;Underweight
+507;35;Male;190;65;22.7;1;Normal Weight
+508;40;Female;140;50;20;0;Underweight
+509;45;Male;200;75;24.2;0;Normal Weight
+510;50;Female;130;60;22.5;1;Normal Weight
+511;55;Male;210;85;26.1;1;Overweight
+512;60;Female;120;70;23.4;0;Normal Weight
+513;14;Male;175;35;16.7;0;Underweight
+514;19;Female;160;25;10;1;Underweight
+515;24;Male;180;45;18.7;0;Underweight
+516;29;Female;150;30;13.3;0;Underweight
+517;34;Male;190;55;21.2;0;Normal Weight
+518;13;Male;175;25;10;0;Underweight
+519;18;Female;160;20;8.3;0;Underweight
+520;23;Male;180;30;13.3;0;Underweight
+521;28;Female;150;25;10;0;Underweight
+522;33;Male;190;40;16.7;1;Underweight
+523;38;Female;140;35;16.7;1;Underweight
+524;43;Male;200;50;20;0;Underweight
+525;48;Female;130;40;16.7;1;Underweight
+526;53;Male;210;55;21.2;1;Normal Weight
+527;58;Female;120;35;16.7;1;Underweight
+528;12;Male;175;15;5.6;1;Underweight
+529;17;Female;160;15;5.6;0;Underweight
+530;22;Male;180;20;8.3;1;Underweight
+531;27;Female;150;20;8.3;1;Underweight
+532;32;Male;190;25;10;1;Underweight
+533;37;Female;140;25;10;1;Underweight
+534;42;Male;200;30;13.3;0;Underweight
+535;47;Female;130;30;13.3;0;Underweight
+536;52;Male;210;35;16.7;0;Underweight
+537;57;Female;120;25;10;1;Underweight
+538;11;Male;175;10;3.9;0;Underweight
+539;16;Female;160;10;3.9;1;Underweight
+540;21;Male;180;15;5.6;0;Underweight
+541;26;Female;150;15;5.6;1;Underweight
+542;31;Male;190;20;8.3;0;Underweight
+543;25;Male;175;80;25.3;0;Normal Weight
+544;30;Female;160;60;22.5;1;Normal Weight
+545;35;Male;180;90;27.3;1;Overweight
+546;40;Female;150;50;20;0;Underweight
+547;45;Male;190;100;31.2;0;Obese I
+548;50;Female;140;40;16.7;1;Underweight
+549;55;Male;200;110;34.2;0;Obese I
+550;60;Female;130;30;13.3;1;Underweight
+551;65;Male;210;120;37.2;1;Obese II
+552;70;Female;120;20;10;1;Underweight
+553;18;Male;175;70;23.4;0;Normal Weight
+554;23;Female;160;50;20;0;Underweight
+555;28;Male;180;80;25.3;1;Normal Weight
+556;33;Female;150;60;22.5;1;Normal Weight
+557;38;Male;190;90;27.3;1;Overweight
+558;43;Female;140;50;20;1;Underweight
+559;48;Male;200;100;31.2;0;Obese I
+560;53;Female;130;40;16.7;1;Underweight
+561;58;Male;210;110;34.2;0;Obese I
+562;63;Female;120;30;13.3;1;Underweight
+563;68;Male;175;80;25.3;1;Normal Weight
+564;73;Female;160;60;22.5;1;Normal Weight
+565;78;Male;180;90;27.3;1;Overweight
+566;83;Female;150;50;20;0;Underweight
+567;88;Male;190;100;31.2;1;Obese I
+568;93;Female;140;40;16.7;0;Underweight
+569;98;Male;200;110;34.2;1;Obese I
+570;103;Female;130;30;13.3;0;Underweight
+571;108;Male;210;120;37.2;1;Obese II
+572;19;Male;175;75;24.2;0;Normal Weight
+573;24;Female;160;55;21.2;0;Normal Weight
+574;29;Male;180;85;26.1;1;Overweight
+575;39;Male;190;95;27;0;Overweight
+576;44;Female;140;75;25;1;Overweight
+577;49;Male;200;105;28.9;1;Obese I
+578;54;Female;130;85;27.5;1;Overweight
+579;59;Male;210;115;30.8;0;Obese I
+580;64;Female;120;95;29.1;0;Overweight
+581;17;Male;175;65;22.7;1;Normal Weight
+582;22;Female;160;45;18.7;1;Underweight
+583;27;Male;180;75;24.2;1;Normal Weight
+584;32;Female;150;55;21.2;1;Normal Weight
+585;37;Male;190;85;26.1;0;Overweight
+586;42;Female;140;65;22.7;0;Normal Weight
+587;47;Male;200;95;27;0;Overweight
+588;52;Female;130;75;25;0;Overweight
+589;57;Male;210;105;28.9;1;Obese I
+590;62;Female;120;85;27.5;0;Overweight
+591;67;Male;175;65;22.7;0;Normal Weight
+592;72;Female;160;45;18.7;1;Underweight
+593;77;Male;180;75;24.2;0;Normal Weight
+594;82;Female;150;55;21.2;0;Normal Weight
+595;87;Male;190;85;26.1;1;Overweight
+596;92;Female;140;65;22.7;1;Normal Weight
+597;97;Male;200;95;27;1;Overweight
+598;102;Female;130;75;25;0;Overweight
+599;107;Male;210;105;28.9;1;Obese I
+600;112;Female;120;85;27.5;1;Overweight
+601;16;Male;175;55;21.2;0;Normal Weight
+602;21;Female;160;35;16.7;0;Underweight
+603;26;Male;180;65;22.7;0;Normal Weight
+604;31;Female;150;45;18.7;0;Underweight
+605;36;Male;190;75;24.2;1;Normal Weight
+606;41;Female;140;55;21.2;1;Normal Weight
+607;46;Male;200;85;26.1;1;Overweight
+608;51;Female;130;65;22.7;1;Normal Weight
+609;56;Male;210;95;27;1;Overweight
+610;61;Female;120;75;25;0;Overweight
+611;15;Male;175;45;18.7;0;Underweight
+612;20;Female;160;30;13.3;0;Underweight
+613;25;Male;180;55;21.2;1;Normal Weight
+614;30;Female;150;40;16.7;0;Underweight
+615;35;Male;190;65;22.7;0;Normal Weight
+616;40;Female;140;50;20;0;Underweight
+617;45;Male;200;75;24.2;1;Normal Weight
+618;50;Female;130;60;22.5;1;Normal Weight
+619;55;Male;210;85;26.1;1;Overweight
+620;60;Female;120;70;23.4;0;Normal Weight
+621;14;Male;175;35;16.7;0;Underweight
+622;19;Female;160;25;10;0;Underweight
+623;24;Male;180;45;18.7;1;Underweight
+624;29;Female;150;30;13.3;1;Underweight
+625;34;Male;190;55;21.2;0;Normal Weight
+626;13;Male;175;25;10;0;Underweight
+627;18;Female;160;20;8.3;1;Underweight
+628;23;Male;180;30;13.3;1;Underweight
+629;28;Female;150;25;10;1;Underweight
+630;33;Male;190;40;16.7;1;Underweight
+631;38;Female;140;35;16.7;1;Underweight
+632;43;Male;200;50;20;1;Underweight
+633;48;Female;130;40;16.7;1;Underweight
+634;53;Male;210;55;21.2;0;Normal Weight
+635;58;Female;120;35;16.7;1;Underweight
+636;12;Male;175;15;5.6;1;Underweight
+637;17;Female;160;15;5.6;1;Underweight
+638;22;Male;180;20;8.3;0;Underweight
+639;27;Female;150;20;8.3;1;Underweight
+640;32;Male;190;25;10;1;Underweight
+641;37;Female;140;25;10;0;Underweight
+642;42;Male;200;30;13.3;1;Underweight
+643;47;Female;130;30;13.3;0;Underweight
+644;52;Male;210;35;16.7;1;Underweight
+645;57;Female;120;25;10;1;Underweight
+646;11;Male;175;10;3.9;0;Underweight
+647;16;Female;160;10;3.9;0;Underweight
+648;21;Male;180;15;5.6;1;Underweight
+649;26;Female;150;15;5.6;1;Underweight
+650;31;Male;190;20;8.3;0;Underweight
+651;25;Male;175;80;25.3;1;Normal Weight
+652;30;Female;160;60;22.5;1;Normal Weight
+653;35;Male;180;90;27.3;1;Overweight
+654;40;Female;150;50;20;0;Underweight
+655;45;Male;190;100;31.2;1;Obese I
+656;50;Female;140;40;16.7;1;Underweight
+657;55;Male;200;110;34.2;0;Obese I
+658;60;Female;130;30;13.3;0;Underweight
+659;65;Male;210;120;37.2;0;Obese II
+660;70;Female;120;20;10;1;Underweight
+661;18;Male;175;70;23.4;1;Normal Weight
+662;23;Female;160;50;20;1;Underweight
+663;28;Male;180;80;25.3;1;Normal Weight
+664;33;Female;150;60;22.5;0;Normal Weight
+665;38;Male;190;90;27.3;0;Overweight
+666;43;Female;140;50;20;0;Underweight
+667;48;Male;200;100;31.2;0;Obese I
+668;53;Female;130;40;16.7;1;Underweight
+669;58;Male;210;110;34.2;0;Obese I
+670;63;Female;120;30;13.3;0;Underweight
+671;68;Male;175;80;25.3;1;Normal Weight
+672;73;Female;160;60;22.5;1;Normal Weight
+673;78;Male;180;90;27.3;1;Overweight
+674;83;Female;150;50;20;1;Underweight
+675;88;Male;190;100;31.2;0;Obese I
+676;93;Female;140;40;16.7;1;Underweight
+677;98;Male;200;110;34.2;0;Obese I
+678;103;Female;130;30;13.3;0;Underweight
+679;108;Male;210;120;37.2;0;Obese II
+680;19;Male;175;75;24.2;0;Normal Weight
+681;24;Female;160;55;21.2;0;Normal Weight
+682;29;Male;180;85;26.1;0;Overweight
+683;39;Male;190;95;27;1;Overweight
+684;44;Female;140;75;25;1;Overweight
+685;49;Male;200;105;28.9;0;Obese I
+686;54;Female;130;85;27.5;1;Overweight
+687;59;Male;210;115;30.8;0;Obese I
+688;64;Female;120;95;29.1;0;Overweight
+689;17;Male;175;65;22.7;1;Normal Weight
+690;22;Female;160;45;18.7;0;Underweight
+691;27;Male;180;75;24.2;1;Normal Weight
+692;32;Female;150;55;21.2;0;Normal Weight
+693;37;Male;190;85;26.1;0;Overweight
+694;42;Female;140;65;22.7;1;Normal Weight
+695;47;Male;200;95;27;0;Overweight
+696;52;Female;130;75;25;1;Overweight
+697;57;Male;210;105;28.9;1;Obese I
+698;62;Female;120;85;27.5;0;Overweight
+699;67;Male;175;65;22.7;1;Normal Weight
+700;72;Female;160;45;18.7;1;Underweight
+701;77;Male;180;75;24.2;1;Normal Weight
+702;82;Female;150;55;21.2;1;Normal Weight
+703;87;Male;190;85;26.1;0;Overweight
+704;92;Female;140;65;22.7;0;Normal Weight
+705;97;Male;200;95;27;1;Overweight
+706;102;Female;130;75;25;0;Overweight
+707;107;Male;210;105;28.9;0;Obese I
+708;112;Female;120;85;27.5;1;Overweight
+709;16;Male;175;55;21.2;1;Normal Weight
+710;21;Female;160;35;16.7;1;Underweight
+711;26;Male;180;65;22.7;0;Normal Weight
+712;31;Female;150;45;18.7;0;Underweight
+713;36;Male;190;75;24.2;0;Normal Weight
+714;41;Female;140;55;21.2;1;Normal Weight
+715;46;Male;200;85;26.1;1;Overweight
+716;51;Female;130;65;22.7;1;Normal Weight
+717;56;Male;210;95;27;0;Overweight
+718;61;Female;120;75;25;0;Overweight
+719;15;Male;175;45;18.7;0;Underweight
+720;20;Female;160;30;13.3;1;Underweight
+721;25;Male;180;55;21.2;1;Normal Weight
+722;30;Female;150;40;16.7;0;Underweight
+723;35;Male;190;65;22.7;1;Normal Weight
+724;40;Female;140;50;20;0;Underweight
+725;45;Male;200;75;24.2;1;Normal Weight
+726;50;Female;130;60;22.5;0;Normal Weight
+727;55;Male;210;85;26.1;1;Overweight
+728;60;Female;120;70;23.4;1;Normal Weight
+729;14;Male;175;35;16.7;0;Underweight
+730;19;Female;160;25;10;1;Underweight
+731;24;Male;180;45;18.7;1;Underweight
+732;29;Female;150;30;13.3;0;Underweight
+733;34;Male;190;55;21.2;0;Normal Weight
+734;13;Male;175;25;10;0;Underweight
+735;18;Female;160;20;8.3;1;Underweight
+736;23;Male;180;30;13.3;0;Underweight
+737;28;Female;150;25;10;0;Underweight
+738;33;Male;190;40;16.7;0;Underweight
+739;38;Female;140;35;16.7;1;Underweight
+740;43;Male;200;50;20;1;Underweight
+741;48;Female;130;40;16.7;1;Underweight
+742;53;Male;210;55;21.2;1;Normal Weight
+743;58;Female;120;35;16.7;1;Underweight
+744;12;Male;175;15;5.6;1;Underweight
+745;17;Female;160;15;5.6;0;Underweight
+746;22;Male;180;20;8.3;1;Underweight
+747;27;Female;150;20;8.3;0;Underweight
+748;32;Male;190;25;10;0;Underweight
+749;37;Female;140;25;10;0;Underweight
+750;42;Male;200;30;13.3;1;Underweight
+751;47;Female;130;30;13.3;0;Underweight
+752;52;Male;210;35;16.7;1;Underweight
+753;57;Female;120;25;10;0;Underweight
+754;11;Male;175;10;3.9;0;Underweight
+755;16;Female;160;10;3.9;1;Underweight
+756;21;Male;180;15;5.6;1;Underweight
+757;26;Female;150;15;5.6;1;Underweight
+758;31;Male;190;20;8.3;1;Underweight
+759;25;Male;175;80;25.3;0;Normal Weight
+760;30;Female;160;60;22.5;1;Normal Weight
+761;35;Male;180;90;27.3;1;Overweight
+762;40;Female;150;50;20;1;Underweight
+763;45;Male;190;100;31.2;0;Obese I
+764;50;Female;140;40;16.7;0;Underweight
+765;55;Male;200;110;34.2;0;Obese I
+766;60;Female;130;30;13.3;0;Underweight
+767;65;Male;210;120;37.2;1;Obese II
+768;70;Female;120;20;10;1;Underweight
+769;18;Male;175;70;23.4;1;Normal Weight
+770;23;Female;160;50;20;0;Underweight
+771;28;Male;180;80;25.3;0;Normal Weight
+772;33;Female;150;60;22.5;0;Normal Weight
+773;38;Male;190;90;27.3;0;Overweight
+774;43;Female;140;50;20;1;Underweight
+775;48;Male;200;100;31.2;0;Obese I
+776;53;Female;130;40;16.7;0;Underweight
+777;58;Male;210;110;34.2;1;Obese I
+778;63;Female;120;30;13.3;0;Underweight
+779;68;Male;175;80;25.3;1;Normal Weight
+780;73;Female;160;60;22.5;0;Normal Weight
+781;78;Male;180;90;27.3;0;Overweight
+782;83;Female;150;50;20;1;Underweight
+783;88;Male;190;100;31.2;1;Obese I
+784;93;Female;140;40;16.7;0;Underweight
+785;98;Male;200;110;34.2;0;Obese I
+786;103;Female;130;30;13.3;1;Underweight
+787;108;Male;210;120;37.2;0;Obese II
+788;19;Male;175;75;24.2;1;Normal Weight
+789;24;Female;160;55;21.2;1;Normal Weight
+790;29;Male;180;85;26.1;1;Overweight
+791;39;Male;190;95;27;1;Overweight
+792;44;Female;140;75;25;0;Overweight
+793;49;Male;200;105;28.9;0;Obese I
+794;54;Female;130;85;27.5;1;Overweight
+795;59;Male;210;115;30.8;0;Obese I
+796;64;Female;120;95;29.1;1;Overweight
+797;17;Male;175;65;22.7;0;Normal Weight
+798;22;Female;160;45;18.7;1;Underweight
+799;27;Male;180;75;24.2;0;Normal Weight
+800;32;Female;150;55;21.2;1;Normal Weight
+801;37;Male;190;85;26.1;1;Overweight
+802;42;Female;140;65;22.7;0;Normal Weight
+803;47;Male;200;95;27;1;Overweight
+804;52;Female;130;75;25;0;Overweight
+805;57;Male;210;105;28.9;1;Obese I
+806;62;Female;120;85;27.5;0;Overweight
+807;67;Male;175;65;22.7;1;Normal Weight
+808;72;Female;160;45;18.7;0;Underweight
+809;77;Male;180;75;24.2;0;Normal Weight
+810;82;Female;150;55;21.2;0;Normal Weight
+811;87;Male;190;85;26.1;1;Overweight
+812;92;Female;140;65;22.7;0;Normal Weight
+813;97;Male;200;95;27;1;Overweight
+814;102;Female;130;75;25;1;Overweight
+815;107;Male;210;105;28.9;1;Obese I
+816;112;Female;120;85;27.5;0;Overweight
+817;16;Male;175;55;21.2;1;Normal Weight
+818;21;Female;160;35;16.7;0;Underweight
+819;26;Male;180;65;22.7;0;Normal Weight
+820;31;Female;150;45;18.7;1;Underweight
+821;36;Male;190;75;24.2;1;Normal Weight
+822;41;Female;140;55;21.2;0;Normal Weight
+823;46;Male;200;85;26.1;0;Overweight
+824;51;Female;130;65;22.7;1;Normal Weight
+825;56;Male;210;95;27;0;Overweight
+826;61;Female;120;75;25;1;Overweight
+827;15;Male;175;45;18.7;1;Underweight
+828;20;Female;160;30;13.3;0;Underweight
+829;25;Male;180;55;21.2;1;Normal Weight
+830;30;Female;150;40;16.7;0;Underweight
+831;35;Male;190;65;22.7;0;Normal Weight
+832;40;Female;140;50;20;1;Underweight
+833;45;Male;200;75;24.2;1;Normal Weight
+834;50;Female;130;60;22.5;1;Normal Weight
+835;55;Male;210;85;26.1;0;Overweight
+836;60;Female;120;70;23.4;0;Normal Weight
+837;14;Male;175;35;16.7;0;Underweight
+838;19;Female;160;25;10;0;Underweight
+839;24;Male;180;45;18.7;1;Underweight
+840;29;Female;150;30;13.3;1;Underweight
+841;34;Male;190;55;21.2;0;Normal Weight
+842;13;Male;175;25;10;0;Underweight
+843;18;Female;160;20;8.3;1;Underweight
+844;23;Male;180;30;13.3;1;Underweight
+845;28;Female;150;25;10;0;Underweight
+846;33;Male;190;40;16.7;1;Underweight
+847;38;Female;140;35;16.7;1;Underweight
+848;43;Male;200;50;20;1;Underweight
+849;48;Female;130;40;16.7;1;Underweight
+850;53;Male;210;55;21.2;0;Normal Weight
+851;58;Female;120;35;16.7;0;Underweight
+852;12;Male;175;15;5.6;1;Underweight
+853;17;Female;160;15;5.6;1;Underweight
+854;22;Male;180;20;8.3;0;Underweight
+855;27;Female;150;20;8.3;0;Underweight
+856;32;Male;190;25;10;0;Underweight
+857;37;Female;140;25;10;0;Underweight
+858;42;Male;200;30;13.3;0;Underweight
+859;47;Female;130;30;13.3;1;Underweight
+860;52;Male;210;35;16.7;1;Underweight
+861;57;Female;120;25;10;1;Underweight
+862;11;Male;175;10;3.9;1;Underweight
+863;16;Female;160;10;3.9;1;Underweight
+864;21;Male;180;15;5.6;1;Underweight
+865;26;Female;150;15;5.6;1;Underweight
+866;31;Male;190;20;8.3;0;Underweight
+867;25;Male;175;80;25.3;0;Normal Weight
+868;30;Female;160;60;22.5;1;Normal Weight
+869;35;Male;180;90;27.3;0;Overweight
+870;40;Female;150;50;20;1;Underweight
+871;45;Male;190;100;31.2;0;Obese I
+872;50;Female;140;40;16.7;1;Underweight
+873;55;Male;200;110;34.2;1;Obese I
+874;60;Female;130;30;13.3;0;Underweight
+875;65;Male;210;120;37.2;0;Obese II
+876;70;Female;120;20;10;1;Underweight
+877;18;Male;175;70;23.4;0;Normal Weight
+878;23;Female;160;50;20;0;Underweight
+879;28;Male;180;80;25.3;0;Normal Weight
+880;33;Female;150;60;22.5;1;Normal Weight
+881;38;Male;190;90;27.3;0;Overweight
+882;43;Female;140;50;20;1;Underweight
+883;48;Male;200;100;31.2;1;Obese I
+884;53;Female;130;40;16.7;1;Underweight
+885;58;Male;210;110;34.2;0;Obese I
+886;63;Female;120;30;13.3;0;Underweight
+887;68;Male;175;80;25.3;1;Normal Weight
+888;73;Female;160;60;22.5;0;Normal Weight
+889;78;Male;180;90;27.3;1;Overweight
+890;83;Female;150;50;20;1;Underweight
+891;88;Male;190;100;31.2;0;Obese I
+892;93;Female;140;40;16.7;0;Underweight
+893;98;Male;200;110;34.2;1;Obese I
+894;103;Female;130;30;13.3;1;Underweight
+895;108;Male;210;120;37.2;1;Obese II
+896;19;Male;175;75;24.2;1;Normal Weight
+897;24;Female;160;55;21.2;1;Normal Weight
+898;29;Male;180;85;26.1;1;Overweight
+899;39;Male;190;95;27;1;Overweight
+900;44;Female;140;75;25;0;Overweight
+901;49;Male;200;105;28.9;0;Obese I
+902;54;Female;130;85;27.5;0;Overweight
+903;59;Male;210;115;30.8;0;Obese I
+904;64;Female;120;95;29.1;1;Overweight
+905;17;Male;175;65;22.7;0;Normal Weight
+906;22;Female;160;45;18.7;1;Underweight
+907;27;Male;180;75;24.2;1;Normal Weight
+908;32;Female;150;55;21.2;1;Normal Weight
+909;37;Male;190;85;26.1;0;Overweight
+910;42;Female;140;65;22.7;0;Normal Weight
+911;47;Male;200;95;27;1;Overweight
+912;52;Female;130;75;25;1;Overweight
+913;57;Male;210;105;28.9;1;Obese I
+914;62;Female;120;85;27.5;1;Overweight
+915;67;Male;175;65;22.7;0;Normal Weight
+916;72;Female;160;45;18.7;0;Underweight
+917;77;Male;180;75;24.2;1;Normal Weight
+918;82;Female;150;55;21.2;1;Normal Weight
+919;87;Male;190;85;26.1;1;Overweight
+920;92;Female;140;65;22.7;0;Normal Weight
+921;97;Male;200;95;27;1;Overweight
+922;102;Female;130;75;25;0;Overweight
+923;107;Male;210;105;28.9;0;Obese I
+924;112;Female;120;85;27.5;0;Overweight
+925;16;Male;175;55;21.2;0;Normal Weight
+926;21;Female;160;35;16.7;0;Underweight
+927;26;Male;180;65;22.7;0;Normal Weight
+928;31;Female;150;45;18.7;1;Underweight
+929;36;Male;190;75;24.2;1;Normal Weight
+930;41;Female;140;55;21.2;1;Normal Weight
+931;46;Male;200;85;26.1;0;Overweight
+932;51;Female;130;65;22.7;0;Normal Weight
+933;56;Male;210;95;27;1;Overweight
+934;61;Female;120;75;25;0;Overweight
+935;15;Male;175;45;18.7;0;Underweight
+936;20;Female;160;30;13.3;1;Underweight
+937;25;Male;180;55;21.2;0;Normal Weight
+938;30;Female;150;40;16.7;0;Underweight
+939;35;Male;190;65;22.7;1;Normal Weight
+940;40;Female;140;50;20;1;Underweight
+941;45;Male;200;75;24.2;1;Normal Weight
+942;50;Female;130;60;22.5;1;Normal Weight
+943;55;Male;210;85;26.1;1;Overweight
+944;60;Female;120;70;23.4;0;Normal Weight
+945;14;Male;175;35;16.7;0;Underweight
+946;19;Female;160;25;10;1;Underweight
+947;24;Male;180;45;18.7;1;Underweight
+948;29;Female;150;30;13.3;0;Underweight
+949;34;Male;190;55;21.2;1;Normal Weight
+950;13;Male;175;25;10;1;Underweight
+951;18;Female;160;20;8.3;0;Underweight
+952;23;Male;180;30;13.3;1;Underweight
+953;28;Female;150;25;10;1;Underweight
+954;33;Male;190;40;16.7;1;Underweight
+955;38;Female;140;35;16.7;1;Underweight
+956;43;Male;200;50;20;1;Underweight
+957;48;Female;130;40;16.7;1;Underweight
+958;53;Male;210;55;21.2;0;Normal Weight
+959;58;Female;120;35;16.7;0;Underweight
+960;12;Male;175;15;5.6;1;Underweight
+961;17;Female;160;15;5.6;1;Underweight
+962;22;Male;180;20;8.3;0;Underweight
+963;27;Female;150;20;8.3;0;Underweight
+964;32;Male;190;25;10;1;Underweight
+965;37;Female;140;25;10;1;Underweight
+966;42;Male;200;30;13.3;1;Underweight
+967;47;Female;130;30;13.3;0;Underweight
+968;52;Male;210;35;16.7;0;Underweight
+969;57;Female;120;25;10;0;Underweight
+970;11;Male;175;10;3.9;1;Underweight
+971;16;Female;160;10;3.9;0;Underweight
+972;21;Male;180;15;5.6;0;Underweight
+973;26;Female;150;15;5.6;0;Underweight
+974;31;Male;190;20;8.3;1;Underweight
+975;25;Male;175;80;25.3;1;Normal Weight
+976;30;Female;160;60;22.5;1;Normal Weight
+977;35;Male;180;90;27.3;0;Overweight
+978;40;Female;150;50;20;0;Underweight
+979;45;Male;190;100;31.2;1;Obese I
+980;50;Female;140;40;16.7;1;Underweight
+981;55;Male;200;110;34.2;0;Obese I
+982;60;Female;130;30;13.3;0;Underweight
+983;65;Male;210;120;37.2;1;Obese II
+984;70;Female;120;20;10;0;Underweight
+985;18;Male;175;70;23.4;0;Normal Weight
+986;23;Female;160;50;20;1;Underweight
+987;28;Male;180;80;25.3;0;Normal Weight
+988;33;Female;150;60;22.5;1;Normal Weight
+989;38;Male;190;90;27.3;0;Overweight
+990;43;Female;140;50;20;0;Underweight
+991;48;Male;200;100;31.2;1;Obese I
+992;53;Female;130;40;16.7;0;Underweight
+993;58;Male;210;110;34.2;0;Obese I
+994;63;Female;120;30;13.3;0;Underweight
+995;68;Male;175;80;25.3;1;Normal Weight
+996;73;Female;160;60;22.5;1;Normal Weight
+997;78;Male;180;90;27.3;1;Overweight
+998;83;Female;150;50;20;0;Underweight
+999;88;Male;190;100;31.2;1;Obese I
+1000;93;Female;140;40;16.7;1;Underweight
+1001;98;Male;200;110;34.2;0;Obese I
+1002;103;Female;130;30;13.3;0;Underweight
+1003;108;Male;210;120;37.2;1;Obese II
+1004;19;Male;175;75;24.2;1;Normal Weight
+1005;24;Female;160;55;21.2;0;Normal Weight
+1006;29;Male;180;85;26.1;0;Overweight
+1007;39;Male;190;95;27;0;Overweight
+1008;44;Female;140;75;25;0;Overweight
+1009;49;Male;200;105;28.9;0;Obese I
+1010;54;Female;130;85;27.5;0;Overweight
+1011;59;Male;210;115;30.8;1;Obese I
+1012;64;Female;120;95;29.1;0;Overweight
+1013;17;Male;175;65;22.7;0;Normal Weight
+1014;22;Female;160;45;18.7;1;Underweight
+1015;27;Male;180;75;24.2;0;Normal Weight
+1016;32;Female;150;55;21.2;0;Normal Weight
+1017;37;Male;190;85;26.1;0;Overweight
+1018;42;Female;140;65;22.7;1;Normal Weight
+1019;47;Male;200;95;27;1;Overweight
+1020;52;Female;130;75;25;0;Overweight
+1021;57;Male;210;105;28.9;1;Obese I
+1022;62;Female;120;85;27.5;1;Overweight
+1023;67;Male;175;65;22.7;1;Normal Weight
+1024;72;Female;160;45;18.7;1;Underweight
+1025;77;Male;180;75;24.2;0;Normal Weight
+1026;82;Female;150;55;21.2;0;Normal Weight
+1027;87;Male;190;85;26.1;0;Overweight
+1028;92;Female;140;65;22.7;0;Normal Weight
+1029;97;Male;200;95;27;1;Overweight
+1030;102;Female;130;75;25;0;Overweight
+1031;107;Male;210;105;28.9;0;Obese I
+1032;112;Female;120;85;27.5;1;Overweight
+1033;16;Male;175;55;21.2;1;Normal Weight
+1034;21;Female;160;35;16.7;0;Underweight
+1035;26;Male;180;65;22.7;1;Normal Weight
+1036;31;Female;150;45;18.7;0;Underweight
+1037;36;Male;190;75;24.2;1;Normal Weight
+1038;41;Female;140;55;21.2;1;Normal Weight
+1039;46;Male;200;85;26.1;1;Overweight
+1040;51;Female;130;65;22.7;0;Normal Weight
+1041;56;Male;210;95;27;1;Overweight
+1042;61;Female;120;75;25;1;Overweight
+1043;15;Male;175;45;18.7;0;Underweight
+1044;20;Female;160;30;13.3;1;Underweight
+1045;25;Male;180;55;21.2;1;Normal Weight
+1046;30;Female;150;40;16.7;1;Underweight
+1047;35;Male;190;65;22.7;0;Normal Weight
+1048;40;Female;140;50;20;0;Underweight
+1049;45;Male;200;75;24.2;1;Normal Weight
+1050;50;Female;130;60;22.5;1;Normal Weight
+1051;55;Male;210;85;26.1;0;Overweight
+1052;60;Female;120;70;23.4;0;Normal Weight
+1053;14;Male;175;35;16.7;1;Underweight
+1054;19;Female;160;25;10;0;Underweight
+1055;24;Male;180;45;18.7;1;Underweight
+1056;29;Female;150;30;13.3;0;Underweight
+1057;34;Male;190;55;21.2;1;Normal Weight
+1058;13;Male;175;25;10;0;Underweight
+1059;18;Female;160;20;8.3;1;Underweight
+1060;23;Male;180;30;13.3;0;Underweight
+1061;28;Female;150;25;10;1;Underweight
+1062;33;Male;190;40;16.7;0;Underweight
+1063;38;Female;140;35;16.7;1;Underweight
+1064;43;Male;200;50;20;0;Underweight
+1065;48;Female;130;40;16.7;1;Underweight
+1066;53;Male;210;55;21.2;0;Normal Weight
+1067;58;Female;120;35;16.7;1;Underweight
+1068;12;Male;175;15;5.6;1;Underweight
+1069;17;Female;160;15;5.6;1;Underweight
+1070;22;Male;180;20;8.3;0;Underweight
+1071;27;Female;150;20;8.3;1;Underweight
+1072;32;Male;190;25;10;1;Underweight
+1073;37;Female;140;25;10;0;Underweight
+1074;42;Male;200;30;13.3;0;Underweight
+1075;47;Female;130;30;13.3;0;Underweight
+1076;52;Male;210;35;16.7;0;Underweight
+1077;57;Female;120;25;10;0;Underweight
+1078;11;Male;175;10;3.9;0;Underweight
+1079;16;Female;160;10;3.9;0;Underweight
+1080;21;Male;180;15;5.6;1;Underweight
+1081;26;Female;150;15;5.6;1;Underweight
+1082;31;Male;190;20;8.3;0;Underweight
+1083;25;Male;175;80;25.3;0;Normal Weight
+1084;30;Female;160;60;22.5;0;Normal Weight
+1085;35;Male;180;90;27.3;0;Overweight
+1086;40;Female;150;50;20;1;Underweight
+1087;45;Male;190;100;31.2;1;Obese I
+1088;50;Female;140;40;16.7;0;Underweight
+1089;55;Male;200;110;34.2;0;Obese I
+1090;60;Female;130;30;13.3;1;Underweight
+1091;65;Male;210;120;37.2;1;Obese II
+1092;70;Female;120;20;10;0;Underweight
+1093;18;Male;175;70;23.4;1;Normal Weight
+1094;23;Female;160;50;20;0;Underweight
+1095;28;Male;180;80;25.3;1;Normal Weight
+1096;33;Female;150;60;22.5;0;Normal Weight
+1097;38;Male;190;90;27.3;0;Overweight
+1098;43;Female;140;50;20;0;Underweight
+1099;48;Male;200;100;31.2;1;Obese I
+1100;53;Female;130;40;16.7;0;Underweight
+1101;58;Male;210;110;34.2;0;Obese I
+1102;63;Female;120;30;13.3;1;Underweight
+1103;68;Male;175;80;25.3;0;Normal Weight
+1104;73;Female;160;60;22.5;0;Normal Weight
+1105;78;Male;180;90;27.3;1;Overweight
+1106;83;Female;150;50;20;0;Underweight
+1107;88;Male;190;100;31.2;0;Obese I
+1108;93;Female;140;40;16.7;1;Underweight
+1109;98;Male;200;110;34.2;0;Obese I
+1110;103;Female;130;30;13.3;0;Underweight
+1111;108;Male;210;120;37.2;0;Obese II
+1112;19;Male;175;75;24.2;1;Normal Weight
+1113;24;Female;160;55;21.2;1;Normal Weight
+1114;29;Male;180;85;26.1;1;Overweight
+1115;39;Male;190;95;27;0;Overweight
+1116;44;Female;140;75;25;0;Overweight
+1117;49;Male;200;105;28.9;0;Obese I
+1118;54;Female;130;85;27.5;1;Overweight
+1119;59;Male;210;115;30.8;1;Obese I
+1120;64;Female;120;95;29.1;0;Overweight
+1121;17;Male;175;65;22.7;1;Normal Weight
+1122;22;Female;160;45;18.7;0;Underweight
+1123;27;Male;180;75;24.2;1;Normal Weight
+1124;32;Female;150;55;21.2;0;Normal Weight
+1125;37;Male;190;85;26.1;1;Overweight
+1126;42;Female;140;65;22.7;1;Normal Weight
+1127;47;Male;200;95;27;0;Overweight
+1128;52;Female;130;75;25;0;Overweight
+1129;57;Male;210;105;28.9;1;Obese I
+1130;62;Female;120;85;27.5;1;Overweight
+1131;67;Male;175;65;22.7;1;Normal Weight
+1132;72;Female;160;45;18.7;0;Underweight
+1133;77;Male;180;75;24.2;1;Normal Weight
+1134;82;Female;150;55;21.2;1;Normal Weight
+1135;87;Male;190;85;26.1;0;Overweight
+1136;92;Female;140;65;22.7;0;Normal Weight
+1137;97;Male;200;95;27;0;Overweight
+1138;102;Female;130;75;25;0;Overweight
+1139;107;Male;210;105;28.9;1;Obese I
+1140;112;Female;120;85;27.5;0;Overweight
+1141;16;Male;175;55;21.2;0;Normal Weight
+1142;21;Female;160;35;16.7;0;Underweight
+1143;26;Male;180;65;22.7;0;Normal Weight
+1144;31;Female;150;45;18.7;0;Underweight
+1145;36;Male;190;75;24.2;0;Normal Weight
+1146;41;Female;140;55;21.2;0;Normal Weight
+1147;46;Male;200;85;26.1;1;Overweight
+1148;51;Female;130;65;22.7;0;Normal Weight
+1149;56;Male;210;95;27;1;Overweight
+1150;61;Female;120;75;25;1;Overweight
+1151;15;Male;175;45;18.7;1;Underweight
+1152;20;Female;160;30;13.3;0;Underweight
+1153;25;Male;180;55;21.2;0;Normal Weight
+1154;30;Female;150;40;16.7;0;Underweight
+1155;35;Male;190;65;22.7;0;Normal Weight
+1156;40;Female;140;50;20;0;Underweight
+1157;45;Male;200;75;24.2;0;Normal Weight
+1158;50;Female;130;60;22.5;0;Normal Weight
+1159;55;Male;210;85;26.1;0;Overweight
+1160;60;Female;120;70;23.4;1;Normal Weight
+1161;14;Male;175;35;16.7;0;Underweight
+1162;19;Female;160;25;10;0;Underweight
+1163;24;Male;180;45;18.7;0;Underweight
+1164;29;Female;150;30;13.3;1;Underweight
+1165;34;Male;190;55;21.2;0;Normal Weight
+1166;13;Male;175;25;10;1;Underweight
+1167;18;Female;160;20;8.3;0;Underweight
+1168;23;Male;180;30;13.3;0;Underweight
+1169;28;Female;150;25;10;0;Underweight
+1170;33;Male;190;40;16.7;1;Underweight
+1171;38;Female;140;35;16.7;0;Underweight
+1172;43;Male;200;50;20;0;Underweight
+1173;48;Female;130;40;16.7;1;Underweight
+1174;53;Male;210;55;21.2;0;Normal Weight
+1175;58;Female;120;35;16.7;1;Underweight
+1176;12;Male;175;15;5.6;0;Underweight
+1177;17;Female;160;15;5.6;0;Underweight
+1178;22;Male;180;20;8.3;0;Underweight
+1179;27;Female;150;20;8.3;1;Underweight
+1180;32;Male;190;25;10;1;Underweight
+1181;37;Female;140;25;10;0;Underweight
+1182;42;Male;200;30;13.3;1;Underweight
+1183;47;Female;130;30;13.3;1;Underweight
+1184;52;Male;210;35;16.7;1;Underweight
+1185;57;Female;120;25;10;1;Underweight
+1186;11;Male;175;10;3.9;1;Underweight
+1187;16;Female;160;10;3.9;1;Underweight
+1188;21;Male;180;15;5.6;1;Underweight
+1189;26;Female;150;15;5.6;0;Underweight
+1190;31;Male;190;20;8.3;0;Underweight
